@@ -19,14 +19,16 @@ import math, random
 # tan = math.tan(ang)
 # print(f'O angulo é de {num:.0f}°, seu cosseno é {cos:.2f}, o seno é {sen:.2f} e a tangente é {tan:.2f}')
 
+#EXECICIO 19 - SORTEAR UM DOS ALUNOS PARA APAGAR O QUADRO. pROGRAMA QUE AJUDA O PROFESSOR, LENDO O NOME DOS ALUNOS E ESCREVENDO O NOME DO ESCOLHIDO
+# aluno = random.choice(['Carlos','Eduardo','Mônica','Roberta','Dagoberto'])
+# print(f'O aluno(a) que irá apagar o quadro hoje é: {aluno}')
 
+#EXERCICIO 20 - MESMA COISA DO EX ANTERIOR, MAS O SORTEIO SERVIRÁ PARA ESCOLHER A ORDEM DE APRESENTAÇÃO DOS TRABALHOS, O SORTEIO DEVE MOSTRAR O NOME DOS QUATRO ALUNOS E A ORDEM DE SORTEIO
+# aluno = random.sample(['Carlos','Eduardo','Mônica','Roberta','Dagoberto'], k=5)
+# print(f'A ordem de apresentação dos trabalhos será: {aluno}')
 
-
-
-
-
-
-
+#EXERCICIO 21 - FAÇA UM PROGRAMA EM PYTHON QUE ABRA E REPRODUZA O ÁUDIO DE UM ARQUIVO MP3
+#ver com o jarabara
 
 
 
